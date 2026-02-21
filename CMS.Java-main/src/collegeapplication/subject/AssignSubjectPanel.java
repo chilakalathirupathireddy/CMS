@@ -159,7 +159,7 @@ public class AssignSubjectPanel extends JPanel {
 		table.getColumnModel().getColumn(0).setCellRenderer(cellrenderer);
 		for(int i=0; i<table.getRowCount(); i++)
 		  {
-			  if(table.getModel().getValueAt(i,3).equals(new Integer(0)))
+			  if(table.getModel().getValueAt(i,3).equals(Integer.valueOf(0)))
 			  {
 				  table.getModel().setValueAt("Not Assigned",i, 3);
 
