@@ -71,3 +71,13 @@ Phone no: 9391451197
  
 
 
+
+## Online Student Mentoring Module (Java + MySQL)
+
+A dedicated mentoring module is available in:
+- `src/collegeapplication/mentoring/MentoringSystemFrame.java`
+
+Database script:
+- `mentoring_system.sql`
+
+This module includes role-based login (student, mentor, admin), attendance/marks views, messaging, announcements, session alerts, and mentor assignment management.
