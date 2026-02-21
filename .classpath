@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="CMS.Java-main/src"/>
+	<classpathentry kind="lib" path="CMS.Java-main/jar files/mysql-connector-java-5.1.38.jar"/>
+	<classpathentry kind="lib" path="CMS.Java-main/jar files/rs2xml.jar"/>
+	<classpathentry kind="output" path="CMS.Java-main/bin"/>
+</classpath>
